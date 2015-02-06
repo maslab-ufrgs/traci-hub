@@ -1,0 +1,5 @@
+This project's configure script and makefiles are generated
+by autotools. To obtain them, run 'autoreconf -i'.
+
+To build this project, invoke the usual './configure' and
+'make'
